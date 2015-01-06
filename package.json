@@ -1,0 +1,8 @@
+{
+    "name":"amqp-test-client",
+    "private":false,
+    "version":"0.0.1",
+    "dependencies":{
+        "amqplib":"=0.3.0"
+    }
+}
